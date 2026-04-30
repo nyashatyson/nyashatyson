@@ -21,7 +21,7 @@
 
 **🌐 Web Development:**
 - React.js | Node.js | Express.js | Flask | Django
-- 
+
 **⚙️ DevOps & Tools:**
 - Git | GitHub | Docker | Jupyter Notebook | VS Code 
 
