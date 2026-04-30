@@ -1,34 +1,29 @@
 # Hi there, I'm Nyasha 👋
 
----
-
-🎓 Data Science & Computer Science Student | 🍁 Based in Canada  
+🎓 Computer Science & Data Science Student | 🍁 Based in Canada  
 🚀 I build optimization systems, recommender engines, and full-stack data applications — blending software engineering with the power of machine learning.
 
 ---
 
 ## 🎓 Education & Training
 
-- BSc Data Science & Computer Science – Memorial University of Newfoundland (In Progress)
+- BSc in Computer Science – Memorial University of Newfoundland (In Progress)
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**💠 Programming & Scripting:**
-- Python | JavaScript | SQL
-
-**🌐 Web Development:**
-- React.js | Node.js | Express.js | Flask | Django
+**💠 Programming Languaages**
+- Python | JavaScript | SQL | HTML
 
 **📊 Data Science & Machine Learning:**
 - Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow
 
-**🗄️ Databases:**
-- PostgreSQL | MongoDB | Firebase
-
+**🌐 Web Development:**
+- React.js | Node.js | Express.js | Flask | Django
+- 
 **⚙️ DevOps & Tools:**
-- Git | GitHub | Docker | Jupyter Notebook | VS Code | AWS
+- Git | GitHub | Docker | Jupyter Notebook | VS Code 
 
 ---
 
