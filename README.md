@@ -14,16 +14,13 @@
 ## 🛠️ Skills & Tools
 
 **💠 Programming Languaages**
-- Python | JavaScript | SQL | HTML
+- Python | JavaScript | SQL | JAVA
 
 **📊 Data Science & Machine Learning:**
 - Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow
 
-**🌐 Web Development:**
-- React.js | Node.js | Express.js | Flask | Django
-
 **⚙️ DevOps & Tools:**
-- Git | GitHub | Docker | Jupyter Notebook | VS Code 
+- Git | GitHub | Jupyter Notebook | VS Code 
 
 ---
 
