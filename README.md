@@ -1,7 +1,7 @@
 # Hi there, I'm Nyasha 👋
 
 🎓 Computer Science & Data Science Student | 🍁 Based in Canada  
-🚀 I build optimization systems, recommender engines, and full-stack data applications — blending software engineering with the power of machine learning.
+🚀 I build optimization systems and recommender engines — blending software engineering with the power of machine learning.
 
 ---
 
